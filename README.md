@@ -7,7 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://dribbble.com/ignatg](https://dribbble.com/ignatg)
 
-- ⚡ Fun fact **I love to create illustrations (using AI), design websites (using Adobe XD) and play tennis (using a tennis racket :) )**
+- ⚡ Fun fact **I love to create illustrations (using AI), design websites (using Adobe XD) and play tennis (using a tennis racket 😊 )**
+
 
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
@@ -43,10 +44,9 @@
 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignatg&layout=compact" alt="ignatg" /></p>
 
 <br />
-<h5 align="center">Find out more about my work: </h6>
+<h5 align="center">Find out more about me and my work: </h6>
 
 <p align="center">
 <a href="https://linkedin.com/in/ignatg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ignatg" height="30" width="30" /></a>
